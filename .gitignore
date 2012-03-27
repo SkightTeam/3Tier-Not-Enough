@@ -1,0 +1,25 @@
+
+###############
+#    folder   #
+###############
+/obj
+/bin
+*/obj
+*/bin
+/Skight.ES.Register.Web.UI/obj
+/_ReSharper.*
+/packages
+
+
+
+###############
+#     file    #
+###############
+*.lib
+*.cache
+*.user
+*.suo
+*.dotCover
+App.config
+*/Data/Database*.*
+/Skight.ES.Register.Web.UI/Web.config
