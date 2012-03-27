@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6D663413-8A85-488D-84DB-E1CA9C6CF995" ModuleId="Skight.Demo.Domain" />
+  <Module PersistentId="B3F08926-F60E-4061-907E-3FF9520EC993" ModuleId="Skight.Demo.NHRepository" />
+</Modules>
