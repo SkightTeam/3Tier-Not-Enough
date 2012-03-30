@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ReadMe.txt = ReadMe.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skight.Demo.NHRepository.Tests", "Skight.Demo.NHRepository.Tests\Skight.Demo.NHRepository.Tests.csproj", "{F8C80C82-7BAE-4591-A352-730528A7EF3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{B3F08926-F60E-4061-907E-3FF9520EC993}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F08926-F60E-4061-907E-3FF9520EC993}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F08926-F60E-4061-907E-3FF9520EC993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C80C82-7BAE-4591-A352-730528A7EF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C80C82-7BAE-4591-A352-730528A7EF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C80C82-7BAE-4591-A352-730528A7EF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C80C82-7BAE-4591-A352-730528A7EF3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

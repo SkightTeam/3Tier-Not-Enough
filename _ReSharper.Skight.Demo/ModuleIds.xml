@@ -1,4 +1,6 @@
 <Modules>
   <Module PersistentId="6D663413-8A85-488D-84DB-E1CA9C6CF995" ModuleId="Skight.Demo.Domain" />
   <Module PersistentId="B3F08926-F60E-4061-907E-3FF9520EC993" ModuleId="Skight.Demo.NHRepository" />
+  <Module PersistentId="F8C80C82-7BAE-4591-A352-730528A7EF3D" ModuleId="Skight.Demo.NHRepository.Tests" />
+  <Module PersistentId="NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4" ModuleId="NHibernate" />
 </Modules>

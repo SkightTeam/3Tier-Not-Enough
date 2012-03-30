@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{B3F08926-F60E-4061-907E-3FF9520EC993}</ProjectGuid>
+    <ProjectGuid>{F8C80C82-7BAE-4591-A352-730528A7EF3D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Skight.Demo.NHRepository</RootNamespace>
-    <AssemblyName>Skight.Demo.NHRepository</AssemblyName>
+    <RootNamespace>Skight.Demo.NHRepository.Tests</RootNamespace>
+    <AssemblyName>Skight.Demo.NHRepository.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -35,18 +35,23 @@
     <Reference Include="Antlr3.Runtime">
       <HintPath>..\3rdParty\nHibernate\Antlr3.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="FluentNHibernate">
+    <Reference Include="FluentNHibernate, Version=1.2.0.712, Culture=neutral, PublicKeyToken=8aa435e3cb308880, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\3rdParty\nHibernate\FluentNHibernate.dll</HintPath>
     </Reference>
     <Reference Include="Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\3rdParty\nHibernate\Iesi.Collections.dll</HintPath>
     </Reference>
-    <Reference Include="NHibernate">
+    <Reference Include="NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\3rdParty\nHibernate\NHibernate.dll</HintPath>
     </Reference>
     <Reference Include="NHibernate.ByteCode.Castle">
       <HintPath>..\3rdParty\nHibernate\NHibernate.ByteCode.Castle.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\3rdParty\nUnit\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -63,17 +68,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExamMap.cs" />
+    <Compile Include="CreateDatabase.cs" />
+    <Compile Include="DataOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QueryImpls\QueryImplByQueryOver.cs" />
-    <Compile Include="RepositoryImpl.cs" />
-    <Compile Include="SessionProvider.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Skight.Demo.Domain\Skight.Demo.Domain.csproj">
       <Project>{6D663413-8A85-488D-84DB-E1CA9C6CF995}</Project>
       <Name>Skight.Demo.Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Skight.Demo.NHRepository\Skight.Demo.NHRepository.csproj">
+      <Project>{B3F08926-F60E-4061-907E-3FF9520EC993}</Project>
+      <Name>Skight.Demo.NHRepository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

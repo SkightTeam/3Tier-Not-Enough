@@ -1,23 +1,29 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Repository.cs" caret="155" fromTop="7" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:NoRowsMatchingQueryException.cs" caret="105" fromTop="4" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:TooManyRowsMatchingException.cs" caret="105" fromTop="4" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/d:Examination/f:Exam.cs" caret="204" fromTop="8" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Query.cs" caret="93" fromTop="6" />
-    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/f:RepositoryImpl.cs" caret="610" fromTop="23" />
     <File id="80392ACC-252D-4615-9A31-03D2F4DBEA42/f:ReadMe.txt/s:..?ReadMe.txt" caret="0" fromTop="0" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/d:Properties/f:AssemblyInfo.cs" caret="26" fromTop="1" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/d:Examination/f:Exam.cs" caret="204" fromTop="8" />
+    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/f:RepositoryImpl.cs" caret="321" fromTop="12" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Repository.cs" caret="222" fromTop="10" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Query.cs" caret="82" fromTop="5" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:TooManyRowsMatchingException.cs" caret="111" fromTop="5" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:NoRowsMatchingQueryException.cs" caret="487" fromTop="12" />
+    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/f:SessionProvider.cs" caret="88" fromTop="5" />
   </RecentFiles>
   <RecentEdits>
     <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Query.cs" caret="61" fromTop="2" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Repository.cs" caret="221" fromTop="9" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Repository.cs" caret="337" fromTop="12" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:NoRowsMatchingQueryException.cs" caret="105" fromTop="4" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:TooManyRowsMatchingException.cs" caret="105" fromTop="4" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:TooManyRowsMatchingException.cs" caret="132" fromTop="4" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Repository.cs" caret="241" fromTop="9" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:TooManyRowsMatchingException.cs" caret="107" fromTop="4" />
     <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/d:Examination/f:Exam.cs" caret="180" fromTop="6" />
-    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Query.cs" caret="124" fromTop="6" />
-    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/f:RepositoryImpl.cs" caret="135" fromTop="5" />
     <File id="80392ACC-252D-4615-9A31-03D2F4DBEA42/f:ReadMe.txt/s:..?ReadMe.txt" caret="9" fromTop="0" />
+    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/f:RepositoryImpl.cs" caret="0" fromTop="0" />
+    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/f:RepositoryImpl.cs" caret="133" fromTop="4" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:NoRowsMatchingQueryException.cs" caret="452" fromTop="9" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Repository.cs" caret="214" fromTop="10" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:Query.cs" caret="72" fromTop="3" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:TooManyRowsMatchingException.cs" caret="48" fromTop="3" />
+    <File id="6D663413-8A85-488D-84DB-E1CA9C6CF995/f:NoRowsMatchingQueryException.cs" caret="487" fromTop="12" />
+    <File id="B3F08926-F60E-4061-907E-3FF9520EC993/f:SessionProvider.cs" caret="88" fromTop="5" />
   </RecentEdits>
 </RecentFiles>

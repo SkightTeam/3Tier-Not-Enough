@@ -2,8 +2,7 @@
 
 namespace Skight.Demo.Domain
 {
-    public class TooManyRowsMatchingException:Exception
+    public class TooManyRowsMatchingException : Exception
     {
-         
     }
 }
